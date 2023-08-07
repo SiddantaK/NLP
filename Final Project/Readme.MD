@@ -8,7 +8,9 @@ The primary objective of this project is to develop and evaluate machine learnin
 
 ## Dataset
 
-The project utilizes a comprehensive dataset of song lyrics, encompassing a time span from 1991 to 2023. The dataset contains around 3.3 million songs after data preprocessing. Different timelines are considered, such as post-2020 and 2010-2017, to investigate potential biases introduced by time-based segmentation.
+The project utilizes a comprehensive dataset of song lyrics, encompassing a certain time. The dataset contains around 3.3 million songs after data preprocessing. Different timelines are considered, such as post-2020 and 2010-2017, to investigate potential biases introduced by time-based segmentation.
+
+Download the dataset from the kaggle (https://www.kaggle.com/datasets/carlosgdcj/genius-song-lyrics-with-language-information), then manage the path and you are good to go.
 
 ## Implementation Steps
 
